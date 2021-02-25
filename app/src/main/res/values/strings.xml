@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result">Result</string>
+    <string name="reg">Reg</string>
+    <string name="log">Log</string>
+    <string name="style3">Style3</string>
+    <string name="style2">Style2</string>
+    <string name="style1">Style1</string>
+</resources>
